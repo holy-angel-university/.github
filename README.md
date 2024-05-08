@@ -1,4 +1,4 @@
-![Blue Grey Corporate Illustrated Collaboration LinkedIn Banner](https://github.com/noeydoesscience/noeydoesscience/assets/169208389/d294c489-5b80-439e-bcf8-e98e99c033bd)
+![Banner](https://github.com/noeydoesscience/noeydoesscience/assets/169208389/d294c489-5b80-439e-bcf8-e98e99c033bd)
 
 <div align="center">
   
