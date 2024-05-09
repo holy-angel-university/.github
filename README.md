@@ -2,7 +2,7 @@
 
 <div align="center">
   
-##### This account, [@noeydoesscience](https://github.com/noeydoesscience) focuses on data science related projects, notes itself & notebooks, and other data sets that I find interesting to share and to do experiment with, while my other account which is this [@noeyislearning](https://github.com/noeyislearning) is for work-related projects.
+#### This account, [@noeydoesscience](https://github.com/noeydoesscience) focuses on data science related projects, notes itself & notebooks, and other data sets that I find interesting to share and to do experiment with, while my other account which is this [@noeyislearning](https://github.com/noeyislearning) is for work-related projects.
 
 </div>
 
