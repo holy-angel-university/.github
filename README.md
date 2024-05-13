@@ -1,15 +1,18 @@
-![Banner](https://github.com/noeydoesscience/noeydoesscience/assets/169208389/d294c489-5b80-439e-bcf8-e98e99c033bd)
+![GitHub Banner](https://github.com/cogxen/cogxen/assets/132775768/2b56a2fe-daa8-455d-a7de-cb8092428efc)
 
-<div align="center">
   
-##### This account, [@noeydoesscience](https://github.com/noeydoesscience) focuses on data science related projects, notes (lectures) & notebooks, and other datasets that I find interesting to share and to do experiment with, while my other account [@noeyislearning](https://github.com/noeyislearning), is for work-related projects.
+### [Cogxen](https://github.com/cogxen) empowers data enthusiasts and practitioners with the tools and knowledge to unlock the potential of data. We foster a collaborative environment for open-source projects, experimentation, and innovation in data science, machine learning, artificial intelligence, and related data careers.
 
-</div>
 
-<div align="center">
-  
-[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-0c52c7?style=for-the-badge&logo=About.me&logoColor=fff)](https://noeyislearning.dev)
-[![GitHub](https://img.shields.io/badge/@noeyislearning-0c52c7?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/noeyislearning)
-[![GitHub](https://img.shields.io/badge/@noeydoesscience-0c52c7?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/noeydoesscience)
+### 🏳️ Our Mission
 
-</div>
+- To accelerate innovation in data-driven fields by providing a platform for open-source projects and knowledge exchange.
+- To empower data enthusiasts, researchers, and professionals to learn, build, and deploy real-world data science solutions.
+- To cultivate a collaborative community that values open discussion, continuous learning, and pushing the boundaries of data-driven possibilities.
+
+### ✨ What you'll find here?
+
+1. Public repositories for data science projects, including machine learning models, data analysis scripts, and visualization tools.
+2. Resources and tutorials for beginners and experienced practitioners alike.
+3. A platform to showcase your data science skills and portfolio.
+4. (Soon) Opportunities to collaborate with other data enthusiasts on real-world problems.
