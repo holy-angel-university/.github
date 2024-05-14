@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/cogxen/cogxen/assets/132775768/2b56a2fe-daa8-455d-a7de-cb8092428efc)
+![GitHub Banner](/assets/banner.png)
 
   
 ### [Cogxen](https://github.com/cogxen) empowers data enthusiasts and practitioners with the tools and knowledge to unlock the potential of data. We foster a collaborative environment for open-source projects, experimentation, and innovation in data science, machine learning, artificial intelligence, and related data careers.
