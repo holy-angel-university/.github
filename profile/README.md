@@ -21,7 +21,7 @@
 ###### Join our community to build the next big thing in tech and be part of the future of computer engineering.
 
 [![linkedin](https://img.shields.io/badge/company/aelluminate-1A1B1F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aelluminate/)
-[![x-twitter](https://img.shields.io/badge/@aelluminate-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aelluminate)
-[![threads](https://img.shields.io/badge/@aelluminate-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@aelluminate)
+[![x-twitter](https://img.shields.io/badge/@aelluminate-1A1B1F?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aelluminate)
+[![threads](https://img.shields.io/badge/@aelluminate-1A1B1F?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@aelluminate)
 
 </div>
