@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/hxmZIBq.jpg)
 
-**Aelluminate** is a dynamic, student-focused organization dedicated to shaping the next generation of computer engineers through collaboration between students and university professors. Our goal is to provide aspiring engineers with the tools, knowledge, and hands-on experience needed to excel in the rapidly evolving field of computer engineering. We foster a supportive environment that encourages teamwork, open-source contributions, and innovative problem-solving in all areas of technology and engineering.
+**Aelluminate Campus** is a dynamic, student-focused organization dedicated to shaping the next generation of computer engineers through collaboration between students and university professors. Our goal is to provide aspiring engineers with the tools, knowledge, and hands-on experience needed to excel in the rapidly evolving field of computer engineering. We foster a supportive environment that encourages teamwork, open-source contributions, and innovative problem-solving in all areas of technology and engineering.
 
 ### Our Mission
 
