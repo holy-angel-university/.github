@@ -22,6 +22,8 @@
 
 [![linkedin](https://img.shields.io/badge/company/aelluminate-1A1B1F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aelluminate/)
 [![x-twitter](https://img.shields.io/badge/@aelluminate-1A1B1F?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aelluminate)
-[![threads](https://img.shields.io/badge/@aelluminate-1A1B1F?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@aelluminate)
+[![threads](https://img.shields.io/badge/@aelluminate-1A1B1F?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@aelluminate)  
+[![github](https://img.shields.io/badge/labs-1A1B1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aelluminate-labs)
+[![github](https://img.shields.io/badge/hive-1A1B1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aelluminate-hive)
 
 </div>
