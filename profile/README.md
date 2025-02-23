@@ -1,6 +1,6 @@
 ![hau-banner](/assets/hau-banner.png)
 
-**Holy Angel University (HAU)** is a private, Catholic research university located in Angeles City, Philippines. Established in 1933, HAU is the first lay-founded Catholic school in the country and the first co-educational Catholic high school run by laypersons. With a rich history spanning over 90 years, the university has grown to become one of the largest private educational institutions in Central Luzon, serving over 21,000 students across its urban campus.
+**[Holy Angel University (HAU)](https://www.hau.edu.ph/)** is a private, Catholic research university located in Angeles City, Philippines. Established in 1933, HAU is the first lay-founded Catholic school in the country and the first co-educational Catholic high school run by laypersons. With a rich history spanning over 90 years, the university has grown to become one of the largest private educational institutions in Central Luzon, serving over 21,000 students across its urban campus.
 
 HAU offers a wide range of academic programs, from Basic Education to Graduate School, with a strong emphasis on academic excellence, innovation, and Catholic values. The university is recognized for its cutting-edge programs, state-of-the-art facilities, and commitment to providing accessible quality education through various scholarships and grants.
 
@@ -31,10 +31,3 @@ Holy Angel University offers a diverse range of academic programs, including und
 - **Industry Partnerships**: HAU collaborates with leading tech companies to provide internships, workshops, and career opportunities for students.
 
 For more details, visit [Computer Engineering Program](https://www.hau.edu.ph/programs/school-of-engineering-and-architecture/7).
-
-
-## Contact Information
-
-For inquiries and admissions, please contact:
-- **Address**: 1 Holy Angel Avenue, Sto. Rosario, Angeles City, Central Luzon, Philippines
-- **Website**: [hau.edu.ph](https://www.hau.edu.ph/)
